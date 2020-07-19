@@ -1,5 +1,4 @@
 # Grad School
-#school
 
 ## General
 * [Dartmouth advice](https://web.cs.dartmouth.edu/undergraduate/graduate-school-advice)
