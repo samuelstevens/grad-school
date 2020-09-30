@@ -1,0 +1,21 @@
+The following appeared as part of a letter to the editor of a scientific journal.
+
+"A recent study of eighteen rhesus monkeys provides clues as to the effects of birth order on an individual's levels of stimulation. The study showed that in stimulating situations (such as an encounter with an unfamiliar monkey), firstborn infant monkeys produce up to twice as much of the hormone cortisol, which primes the body for increased activity levels, as do their younger siblings. Firstborn humans also produce relatively high levels of cortisol in stimulating situations (such as the return of a parent after an absence). The study also found that during pregnancy, first-time mother monkeys had higher levels of cortisol than did those who had had several offspring."
+
+Write a response in which you discuss one or more alternative explanations that could rival the proposed explanation and explain how your explanation(s) can plausibly account for the facts presented in the argument.
+
+
+what is the proposed explanation? -> first born monkeys and humans produce more cortisol than other infants, which primes for increased activity levels, in stimulating situations.
+
+what's an explanation for why h
+-> they measured first born at 2 years, second born at 6 months.
+-> first borns have higher levels because of the mothers
+-> 
+
+The letter proposes that order of birth is a factor in cortisol production for rhesus monkeys. An alternative explanation in which birth order is not a factor, but is consistent with the evidence provided in the letter is that the age at which the monkeys were stimulated was different. The letter states that "firstborn infant monkeys produce up to twice as much of the hormone cortisol...as do their younger siblings." This statement must be closely examined in order to understand the implications and assumptions present. 
+
+To begin, the statement describes the non-first born infants as "younger" than the firstborn infants. This implies that the infants were tested at the same time, while the firstborn was older than the others. If that is the case, then infant age could be the cause of the difference in cortisol production; perhaps younger infants have not developed the same glands/organs necessary for higher levels of output. The scientists behind the experiment might have had a good reason to do so; perhaps they wanted to ensure that the stimulation was truly consistent between the firstborn and the other infants, and the only way to ensure this was presenting the stimulation at the same time. If the infants were different ages when stimulated, then birth order might not be a factor in cortisol production, and the experiment would lead to the same outcome.
+
+Of course, true statistical anomaly must also be considered. P-tests and other statistical tools can be used to minimize this possibility, but it is always possible that only 18 test subjects was not enough to truly distinguish birth order as the causal factor in cortisol production.
+
+In short, while the letter appears convincing, there are alternative explanations consistent with the provided evidence. In order to be sure that the birth order is the causal factor in cortisol production in rhesus monkeys, the letter's author should clarify the methodology in the experiment or repeat the experiment, where the different infants are all the same age at the time of stimulation. That would ensure that age is not a possible explanation for different levels of cortisol production and would strengthen the argument that birth order is the cause.

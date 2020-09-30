@@ -31,9 +31,10 @@
 * $12110 - Graduate Engineering 8-10 units (credits), at least 3 quarters a year
 * 45 units to graduate
 * Reddit says people take 3 courses a quarter (or sacrifice mental health) -> 45 / (3 * 3) = 5 quarters to graduate
-* 5 * $12,111 + ~$1,000 (fees) -> **$62K plus housing**
+* 5 * $12,111 + ~$1,000 (fees) -> **$62K plus housing** 
 * Seems like MS isn’t very research focused at Stanford, but I really like research, but I also don’t want to spend 6 years in school
 * The specializations look so so cool though, all the stuff looks really interesting
+
 
 ## MIT
 * [GRE not required](https://gradadmissions.mit.edu/programs/eecs)

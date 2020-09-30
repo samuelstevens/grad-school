@@ -1,0 +1,40 @@
+Woven baskets characterized by a particular distinctive pattern have previously been found only in the immediate vicinity of the prehistoric village of Palea and therefore were believed to have been made only by the Palean people. Recently, however, archaeologists discovered such a "Palean" basket in Lithos, an ancient village across the Brim River from Palea. The Brim River is very deep and broad, and so the ancient Paleans could have crossed it only by boat, and no Palean boats have been found. Thus it follows that the so-called Palean baskets were not uniquely Palean.
+
+Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument.
+
+
+argument -> palean baskets are not uniquely palean
+evidence:
+- palean basket found in lithos
+- no way for paleans to cross the river
+- palean baskets are not unique to palea
+assumptions:
+- they didn't actually have boats
+- the river was still there in prehistoric times
+- the lithos people didn't have boats
+- the palean basket in lithos is truly palean and not just similar
+
+structure
+introduction
+- rephrase conc
+- state author's assumptions
+- state thesis (according to task)
+body x3
+- supporting idea
+- two hypothetical examples
+- effect on author's claim if examples are true
+conlcusion
+- state that argument is flawed
+- request more evidence
+- explain why the evidence would help
+
+
+The author argues that the "so-called Palean baskets" are not uniquely Palean because they were also found in a separate, geographically inaccessible village known as Lithos. However, some assumptions are made that lead to this conclusion: the Brim River was just as inaccessible during the Palean period as it is today, there was alternative method to get baskets from the Palea to Lithos, and the Palean people truly had no boats. Given more evidence to support these assumptions, the author's argument would be much stronger.
+
+The author assumes that the Brim River was "very deep and broad" in the Palean period, just as it is today. However, suppose that the river was a mere stream in this prehistoric period. No boats would have been necessary to get to Lithos, making it trivial to share baskets between the villages. Evidence supporting the idea that the Brim River was an insurmountable challenge to the Palean people, such as sediment analysis or written, historical tablets and records would strengthen the author's argument that there was no way for Palea to share baskets with Lithos.
+
+It is also assumed that the Palean people had no way to get to Lithos without a boat. Even if the Brim River was deep and broad between Palea and Lithos, it could have been narrow enough for a bridge further upstream, or perhaps a downstream village had developed boats, where the Palean people could travel to in order to trade with the village of Lithos. There are any number of ways for the Palean people to cross the Brim River without developing their own boats. Perhaps the Lithos people developed boats and cross the river to facilitate trade. The author needs evidence such as neighbouring archaeological studies to arrive at the conclusion that Palean boats were the only way to cross the Brim River.
+
+Furthermore, there are currently no boats discovered in Palea, indicating to the author that Paleans did not have any boats. But just as Palean baskets were initially only found in Palea, but then were later found in other sites, it is possible that Palean boats have simply not been discovered yet. Suppose that a Palean religion demanded that they keep their boats in nearby caves, rather than at docks on the riverside. Perhaps the boats were lost in the river when Palea eventually died out, never to be found again by archaeologists. The lack of evidence supporting Palean boats does not imply that Palean boats actually did not exist. To further strengthen their argument, the author needs evidence showing that Palean boats did not exist. A historical painting showing the Palean people burning boats could imply a dislike of boats (perhaps religion?), supporting the author's assumption that Palean boats truly never existed.
+
+In short, the author's argument that the Palean baskets are no longer uniquely Palean is flawed. Evidence supporting the author's assumptions would strengthen their argument, but such evidence is difficult to come by in this field. 

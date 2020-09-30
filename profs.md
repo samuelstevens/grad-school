@@ -60,7 +60,7 @@ GRE – 5814
 
 [Notes to applying students](http://www.cs.umd.edu/~marine/students/)
 
-* [Identifying Fluently Inadequate Outputin Neural and Statistical Machine Translation](https://www.aclweb.org/anthology/W19-6623.pdf)
+* [Identifying Fluently Inadequate Output in Neural and Statistical Machine Translation](https://www.aclweb.org/anthology/W19-6623.pdf)
 
 * [Controlling Text Complexity in Neural Machine Translation](https://www.aclweb.org/anthology/D19-1166.pdf)
 
