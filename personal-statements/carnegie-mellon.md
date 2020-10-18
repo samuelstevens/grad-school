@@ -25,7 +25,7 @@ I'm applying to the PhD program at Carnegie Mellon because I want to pursue a ca
 Strong programming ability is critical to be successful in computer science research so that your experiments are not limited by your ability to move from idea to code.
 I have plenty of programming experience, as evidenced by two first-place finishes at Ohio State's largest hackathon (with 800+ participants), two internships at GE Aviation, and an intership-turned-full-time offer from Microsoft.
 My research experience at Ohio State, however, led me to realize that I am genuinely more excited about research than my coursework or my professional experience.
-Teaching a computer to read is just _so_ much cooler than anything else I've worked on.
+Teaching a computer to read is just so much _cooler_ than anything else I've worked on.
 I would really regret not pursuing my passion in natural language processing research.
 
 Past my fundamental programming and computer science skills, I am espcially well-suited to research in natural language processing because of my previous research experience and my ability to self-motivate on difficult problems.
